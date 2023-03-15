@@ -1,0 +1,99 @@
+C:\Visual Studio\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Visual Studio\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Visual Studio\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PaginaPornire.resources
+C:\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.informatii.resources
+C:\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.transport.resources
+C:\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.favorite.resources
+C:\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ochi.resources
+C:\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sprancene.resources
+C:\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ruj.resources
+C:\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lipstick.resources
+C:\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pensula.resources
+C:\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Crema.resources
+C:\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Masca.resources
+C:\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.oja.resources
+C:\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ser.resources
+C:\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.accesorii.resources
+C:\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.quiz.resources
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.accesorii.resources
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Crema.resources
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.favorite.resources
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.informatii.resources
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lipstick.resources
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Masca.resources
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ochi.resources
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.oja.resources
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PaginaPornire.resources
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pensula.resources
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.quiz.resources
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ruj.resources
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ser.resources
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sprancene.resources
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.transport.resources
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.accesorii.resources
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Crema.resources
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.favorite.resources
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.informatii.resources
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lipstick.resources
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Masca.resources
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ochi.resources
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.oja.resources
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PaginaPornire.resources
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pensula.resources
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.quiz.resources
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ruj.resources
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ser.resources
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sprancene.resources
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.transport.resources
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\serba\Desktop\Visual Studio\Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.accesorii.resources
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Crema.resources
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.favorite.resources
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.informatii.resources
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lipstick.resources
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Masca.resources
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ochi.resources
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.oja.resources
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PaginaPornire.resources
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pensula.resources
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.quiz.resources
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ruj.resources
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ser.resources
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sprancene.resources
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.transport.resources
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ALE\ATESTAT\Proiect Atestat\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

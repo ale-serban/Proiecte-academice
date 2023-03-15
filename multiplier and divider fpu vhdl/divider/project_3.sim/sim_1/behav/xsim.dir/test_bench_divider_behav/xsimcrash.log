@@ -1,0 +1,39 @@
+Unable to capture context for thread 20076 in process 43648, can not generate back trace
+Unable to capture context for thread 37004 in process 43648, can not generate back trace
+Exception at PC 0x00007FFE6989BB93
+Printing stacktrace...
+
+Unable to capture context for thread 37004 in process 43648, can not generate back trace
+Exception at PC 0x00007FFF38AE441C
+Exception at PC 0x00007FFF38AE441C
+Exception at PC 0x00007FFF38AE441C
+Exception at PC 0x00007FFF38AE441C
+Exception at PC 0x00007FFF38AE441C
+Exception at PC 0x00007FFF38AE441C
+Exception at PC 0x00007FFF38AE441C
+Exception at PC 0x00007FFF38AE441C
+Exception at PC 0x00007FFF38AE441C
+Exception at PC 0x00007FFF38AE441C
+Exception at PC 0x00007FFF38AE441C
+[0]  [0x00007FFE6989BB93]
+[1]  [0x00007FFE6989BB93]
+[2]  [0x00007FFE6989B4A1]
+[3]  [0x00007FFE6989B3EF]
+[4]  [0x00007FFE698819FE]
+[5]  [0x00007FFE69880ED1]
+[6]  [0x00007FFE69880D76]
+[7]  [0x00007FFE698279F6]
+[8]  [0x00007FFE69817AFB]
+[9]  [0x00007FFE6993E90A]
+[10]  [0x00007FFE69959F87]
+[11]  [0x00007FFE6995A05F]
+[12] (BaseThreadInitThunk+0x10) [0x00007FFF396655A0]
+[13] (RtlUserThreadStart+0x2b) [0x00007FFF3B34485B]
+Done
+Exception at PC 0x00007FFF38AE441C
+Exception at PC 0x00007FFF38AE441C
+Exception at PC 0x00007FFF38AE441C
+Exception at PC 0x00007FFF38AE441C
+Exception at PC 0x00007FFF38AE441C
+Exception at PC 0x00007FFF38AE441C
+Exception at PC 0x00007FFF38AE441C

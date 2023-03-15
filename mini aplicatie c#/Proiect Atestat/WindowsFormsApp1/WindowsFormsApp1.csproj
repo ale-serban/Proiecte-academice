@@ -1,0 +1,564 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C5C53DC2-D827-4D87-B289-74AD1A1BED96}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="accesorii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accesorii.Designer.cs">
+      <DependentUpon>accesorii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Crema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Crema.Designer.cs">
+      <DependentUpon>Crema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="favorite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="favorite.Designer.cs">
+      <DependentUpon>favorite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="informatii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="informatii.Designer.cs">
+      <DependentUpon>informatii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lipstick.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lipstick.Designer.cs">
+      <DependentUpon>Lipstick.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masca.Designer.cs">
+      <DependentUpon>Masca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ochi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ochi.Designer.cs">
+      <DependentUpon>Ochi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="oja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="oja.Designer.cs">
+      <DependentUpon>oja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaginaPornire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaginaPornire.Designer.cs">
+      <DependentUpon>PaginaPornire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pensula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pensula.Designer.cs">
+      <DependentUpon>Pensula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="quiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="quiz.Designer.cs">
+      <DependentUpon>quiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ruj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ruj.Designer.cs">
+      <DependentUpon>Ruj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ser.Designer.cs">
+      <DependentUpon>Ser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sprancene.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sprancene.Designer.cs">
+      <DependentUpon>Sprancene.cs</DependentUpon>
+    </Compile>
+    <Compile Include="transport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transport.Designer.cs">
+      <DependentUpon>transport.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="accesorii.resx">
+      <DependentUpon>accesorii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crema.resx">
+      <DependentUpon>Crema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="favorite.resx">
+      <DependentUpon>favorite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="informatii.resx">
+      <DependentUpon>informatii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lipstick.resx">
+      <DependentUpon>Lipstick.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Masca.resx">
+      <DependentUpon>Masca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ochi.resx">
+      <DependentUpon>Ochi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="oja.resx">
+      <DependentUpon>oja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaginaPornire.resx">
+      <DependentUpon>PaginaPornire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pensula.resx">
+      <DependentUpon>Pensula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="quiz.resx">
+      <DependentUpon>quiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ruj.resx">
+      <DependentUpon>Ruj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ser.resx">
+      <DependentUpon>Ser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sprancene.resx">
+      <DependentUpon>Sprancene.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transport.resx">
+      <DependentUpon>transport.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FUNDAL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diamondButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mov.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\negru.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CosDeCumparaturi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reclama.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heartButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fataButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\infoB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mmbLOGO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\geldedusButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgFundal.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\geldedusButton1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgFundal1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\geldedusButton2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CarePOZA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beautyButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rujButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\geantacosmetice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LipstickButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tryone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\try2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buze.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crema.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fardochi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oja.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pensula.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parfum.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\masca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\try3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oja1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ustensile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\creionochi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\movdeschis.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reclama3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reclama2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reclama4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Curier.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\curierButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ochi1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ochi2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ochi3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ochi4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ochi5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\velveeetochiiii.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sprancene1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sprancene2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sprancene3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sprancene4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sprancene5.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sprancene6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ruj1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ruj2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ruj3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ruj4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ruj5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ruj6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lipstick1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lipstick2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lipstick3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lipstick4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lipstick5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lipstick6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pensula1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pensula11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pensula2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pensula4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pensula3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pensula41.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pensula5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pensula6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crema1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crema2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crema3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crema4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crema5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crema6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\masca1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\masca2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\masca3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\masca4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\masca5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\masca6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oja1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oja2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oja3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oja4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oja5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oja6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ser1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ser2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ser3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ser4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ser5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ser6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accesorii1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accesorii2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accesorii3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accesorii4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accesorii5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accesorii6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aaaquizz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit_button-512.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

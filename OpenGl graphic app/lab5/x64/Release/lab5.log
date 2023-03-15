@@ -1,0 +1,39 @@
+﻿  Camera.cpp
+  main.cpp
+C:\Users\Lenovo\Desktop\pg\lab5\lab5\main.cpp(77,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Lenovo\Desktop\pg\lab5\lab5\main.cpp(81,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Lenovo\Desktop\pg\lab5\lab5\main.cpp(102,23): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\pg\lab5\lab5\main.cpp(103,21): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\pg\lab5\lab5\main.cpp(106,23): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\pg\lab5\lab5\main.cpp(107,21): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\pg\lab5\lab5\main.cpp(232,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Mesh.cpp
+C:\Users\Lenovo\Desktop\pg\lab5\lab5\Mesh.cpp(32,72): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Model3D.cpp
+C:\Users\Lenovo\Desktop\pg\lab5\lab5\Model3D.cpp(89,40): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLuint
+          ]
+C:\Users\Lenovo\Desktop\pg\lab5\lab5\Model3D.cpp(97,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Shader.cpp
+  stb_image.c
+C:\Users\Lenovo\Desktop\pg\lab5\lab5\stb_image.c(429,36): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\pg\lab5\lab5\stb_image.c(442,36): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+LINK : fatal error LNK1181: cannot open input file 'libglew32d.lib'
